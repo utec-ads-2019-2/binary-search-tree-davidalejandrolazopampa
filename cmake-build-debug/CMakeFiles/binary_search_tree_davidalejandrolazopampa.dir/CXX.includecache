@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/bstree.h
+node.h
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/node.h
+iterator.h
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/iterator.h
+
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/iterator.h
+node.h
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/node.h
+stack
+-
+queue
+-
+deque
+-
+
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/mocker/mocker.h
+random
+-
+type_traits
+-
+
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/node.h
+
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/tester/tester.cpp
+tester.h
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/tester/tester.h
+
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/tester/tester.h
+stdexcept
+-
+iostream
+-
+assert.h
+-
+vector
+-
+algorithm
+-
+../mocker/mocker.h
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/mocker/mocker.h
+../bstree.h
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/bstree.h
+

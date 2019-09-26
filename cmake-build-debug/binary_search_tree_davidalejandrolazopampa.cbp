@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="binary_search_tree_davidalejandrolazopampa"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="binary_search_tree_davidalejandrolazopampa">
+				<Option output="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/cmake-build-debug/binary_search_tree_davidalejandrolazopampa.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/."/>
+					<Add directory="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/mocker"/>
+					<Add directory="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/tester"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 binary_search_tree_davidalejandrolazopampa"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="binary_search_tree_davidalejandrolazopampa/fast">
+				<Option output="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/cmake-build-debug/binary_search_tree_davidalejandrolazopampa.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/."/>
+					<Add directory="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/mocker"/>
+					<Add directory="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/tester"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 binary_search_tree_davidalejandrolazopampa/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\David Lazo\Documents\GitHub\binary-search-tree-davidalejandrolazopampa\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/bstree.h">
+			<Option target="binary_search_tree_davidalejandrolazopampa"/>
+		</Unit>
+		<Unit filename="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/iterator.h">
+			<Option target="binary_search_tree_davidalejandrolazopampa"/>
+		</Unit>
+		<Unit filename="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/main.cpp">
+			<Option target="binary_search_tree_davidalejandrolazopampa"/>
+		</Unit>
+		<Unit filename="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/mocker/mocker.cpp">
+			<Option target="binary_search_tree_davidalejandrolazopampa"/>
+		</Unit>
+		<Unit filename="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/mocker/mocker.h">
+			<Option target="binary_search_tree_davidalejandrolazopampa"/>
+		</Unit>
+		<Unit filename="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/node.h">
+			<Option target="binary_search_tree_davidalejandrolazopampa"/>
+		</Unit>
+		<Unit filename="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/tester/tester.cpp">
+			<Option target="binary_search_tree_davidalejandrolazopampa"/>
+		</Unit>
+		<Unit filename="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/tester/tester.h">
+			<Option target="binary_search_tree_davidalejandrolazopampa"/>
+		</Unit>
+		<Unit filename="C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

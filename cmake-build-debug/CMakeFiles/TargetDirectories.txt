@@ -1,0 +1,3 @@
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/cmake-build-debug/CMakeFiles/binary_search_tree_davidalejandrolazopampa.dir
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/David Lazo/Documents/GitHub/binary-search-tree-davidalejandrolazopampa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
